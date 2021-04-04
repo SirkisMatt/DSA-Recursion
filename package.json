@@ -1,0 +1,21 @@
+{
+  "name": "DSA-Recursion",
+  "version": "1.0.0",
+  "main": "counting-sheep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirkisMatt/DSA-Recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirkisMatt/DSA-Recursion/issues"
+  },
+  "homepage": "https://github.com/SirkisMatt/DSA-Recursion#readme",
+  "description": ""
+}
